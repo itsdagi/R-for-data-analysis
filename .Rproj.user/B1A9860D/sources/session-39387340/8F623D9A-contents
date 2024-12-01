@@ -1,0 +1,17 @@
+df <- data.frame(
+ name = c("alice","mac", "dude", "jude","yo"),
+ age = c(22,33,43,34,9),
+ score = c(23,84,55,55,68) 
+)
+
+df$age[2] <- 56
+print(df)
+df$age
+# attach(df)
+mean(age)
+
+# colnames(df)[colnames(df) == name] <- "fullname Dagim"
+
+#Arrays
+
+df[1,1]
