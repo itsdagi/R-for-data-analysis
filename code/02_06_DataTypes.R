@@ -22,7 +22,7 @@ typeof(c1)
 
 c2 <- "a string of text"
 c2
-typeof(c2) # character type which in other programming langues is char 
+typeof(c2) # character Type which in other programming langues is char 
 
 
 ## Logical =================================================
